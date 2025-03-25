@@ -339,6 +339,14 @@ body form button:hover {
   margin-top: 1%;
 }
 
+.postAudio h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #0e5b00;
+  margin-bottom: 40px;
+  margin-top: 1%;
+}
+
 
 body .episodiosList {
   padding: 50px 10%;
